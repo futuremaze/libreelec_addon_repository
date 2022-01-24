@@ -4,7 +4,7 @@ This repository provides PVR add-ons for Kodi 18.
 
 ## Repository add-on
 
-[repository.harekaze2.zip](https://github.com/Harekaze/repository/releases/download/3.0.0-kodi/repository.harekaze2.zip)
+[repository.futuremaze.zip](https://github.com/futuremaze/repository/releases/download/3.0.0-kodi/repository.futuremaze.zip)
 
 ## Available add-ons
 
