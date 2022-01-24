@@ -1,6 +1,6 @@
 [submodule "docker.futuremaze.epgstation"]
 	path = docker.futuremaze.epgstation
-	url = https://github.com/futuremaze/docker.futuremaze.epgstation
+	url = https://github.com/futuremaze/docker.futuremaze.epgstation.git
 [submodule "docker.futuremaze.mirakurun"]
 	path = docker.futuremaze.mirakurun
-	url = https://github.com/futuremaze/docker.futuremaze.mirakurun
+	url = https://github.com/futuremaze/docker.futuremaze.mirakurun.git
