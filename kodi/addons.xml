@@ -17,7 +17,7 @@
 		<language>en ja</language>
 		<disclaimer>mirakurun</disclaimer>
 	</extension>
-</addon><addon id="docker.futuremaze.epgstation" name="epgstation" version="1.0.1" provider-name="futuremaze project">
+</addon><addon id="docker.futuremaze.epgstation" name="epgstation" version="1.0.2" provider-name="futuremaze project">
 	<requires>
 		<import addon="os.libreelec.tv" version="7.0" />
 		<import addon="service.system.docker" version="0.0.0" />
