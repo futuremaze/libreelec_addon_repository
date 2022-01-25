@@ -36,11 +36,11 @@
 		<language>en ja</language>
 		<disclaimer>epgstation</disclaimer>
 	</extension>
-</addon><addon id="repository.futuremaze" name="futuremaze repository" version="3.0.0" provider-name="futuremaze project">
+</addon><addon id="repository.futuremaze" name="futuremaze repository" version="1.0.0" provider-name="futuremaze project">
 	<extension point="xbmc.addon.repository" name="futuremaze add-on repository">
-		<info compressed="false">https://futuremaze.github.io/repository/kodi/addons.xml</info>
-		<checksum>https://futuremaze.github.io/repository/kodi/addons.xml.md5</checksum>
-		<datadir zip="true">https://futuremaze.github.io/repository/kodi/</datadir>
+		<info compressed="false">https://futuremaze.github.io/libreelec_addon_repository/kodi/addons.xml</info>
+		<checksum>https://futuremaze.github.io/libreelec_addon_repository/kodi/addons.xml.md5</checksum>
+		<datadir zip="true">https://futuremaze.github.io/libreelec_addon_repository/kodi/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>futuremaze add-ons</summary>
