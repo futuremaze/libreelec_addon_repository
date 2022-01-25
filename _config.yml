@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 baseurl: /repository/
 show_downloads: true
 github:
-    zip_url: https://github.com/Harekaze/repository/releases/download/3.0.0-kodi/repository.futuremaze.zip
+    zip_url: https://github.com/futuremaze/repository/releases/download/1.0.0-kodi/repository.futuremaze.zip
 defaults:
   -
     scope:
