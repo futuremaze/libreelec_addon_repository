@@ -2,10 +2,10 @@ title: futuremaze
 description: futuremaze add-on repository
 logo: /kodi/repository.futuremaze/icon.png
 theme: jekyll-theme-minimal
-baseurl: /repository/
+baseurl: /libreelec_addon_repository/
 show_downloads: true
 github:
-    zip_url: https://github.com/futuremaze/repository/releases/download/1.0.0-kodi/repository.futuremaze.zip
+    zip_url: https://github.com/futuremaze/libreelec_addon_repository/releases/download/1.0.0-kodi/repository.futuremaze.zip
 defaults:
   -
     scope:
