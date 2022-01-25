@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="docker.harekaze.mirakurun" name="mirakurun" version="1.0.0" provider-name="Harekaze project">
+<addon id="docker.futuremaze.mirakurun" name="mirakurun" version="1.0.0" provider-name="futuremaze project">
 	<requires>
 		<import addon="os.libreelec.tv" version="7.0"/>
 		<import addon="service.system.docker" version="0.0.0"/>
@@ -11,9 +11,9 @@
 		<platform>all</platform>
 		<license>GPL v3.0</license>
 		<summary>mirakurun</summary>
-		<source>https://github.com/Harekaze/docker.harekaze.mirakurun/</source>
-		<website>https://github.com/Harekaze/docker.harekaze.mirakurun/wiki</website>
-		<forum>https://github.com/Harekaze/docker.harekaze.mirakurun/issues</forum>
+		<source>https://github.com/futuremaze/docker.futuremaze.mirakurun/</source>
+		<website>https://github.com/futuremaze/docker.futuremaze.mirakurun/wiki</website>
+		<forum>https://github.com/futuremaze/docker.futuremaze.mirakurun/issues</forum>
 		<language>en ja</language>
 		<disclaimer>mirakurun</disclaimer>
 	</extension>
