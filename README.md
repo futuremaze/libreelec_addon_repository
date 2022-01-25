@@ -1,4 +1,4 @@
-# Harekaze add-on repository
+# futuremaze add-on repository
 
 This repository provides PVR add-ons for Kodi 18.
 
@@ -8,12 +8,12 @@ This repository provides PVR add-ons for Kodi 18.
 
 ## Available add-ons
 
-| Name                       | Version |
-| -------------------------- | ------- |
-| docker.harekaze.mirakurun  | 1.0.0   |
-| docker.harekaze.epgstation | 1.0.0   |
-| repository.harekaze2       | 3.0.0   |
-| pvr.epgstation             | 0.0.9   |
+| Name                         | Version |
+| ---------------------------- | ------- |
+| docker.futuremaze.mirakurun  | 1.0.0   |
+| docker.futuremaze.epgstation | 1.0.0   |
+| repository.futuremaze        | 3.0.0   |
+| pvr.epgstation               | 0.0.9   |
 
 
 ## LICENSE
